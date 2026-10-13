@@ -10,8 +10,8 @@ Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrolladora Junior
 
 ## 📞 Información de Contacto
 
-* **Teléfono:** [Tu número de teléfono]
-* **Correo Electrónico:** [Tu correo electrónico]
+* **Teléfono: 32433669482
+* **Correo Electrónico:** mariapauli
 * **Ubicación:** Medellín, Colombia
 * **LinkedIn:** [Enlace a tu perfil de LinkedIn]
 * **Portafolio / Sitio Web:** [Enlace a tu GitHub o Portafolio]
@@ -75,4 +75,4 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 
 ---
 
-¿Hay alguna tecnología adicional o número de contacto específico que quieras agregar a los campos entre corchetes?
+
