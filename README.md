@@ -77,6 +77,8 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 
 💻 Lenguajes de Programación
 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -85,6 +87,8 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 ---
 
 🗄️ Bases de Datos
+
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -93,6 +97,8 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 
 
 ---
+
+
 
 ⚙️ Herramientas, DevOps y Entornos
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
