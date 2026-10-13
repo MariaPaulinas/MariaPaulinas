@@ -1,16 +1,78 @@
-## Hi there 👋
+Aquí tienes tu perfil profesional adaptado exactamente a la plantilla solicitada, integrando tu información académica, tecnológica y tus áreas de desarrollo actual:
 
-<!--
-**MariaPaulinas/MariaPaulinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Maria Paulina Sánchez García
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrolladora Junior
+
+---
+
+## 📞 Información de Contacto
+
+* **Teléfono:** [Tu número de teléfono]
+* **Correo Electrónico:** [Tu correo electrónico]
+* **Ubicación:** Medellín, Colombia
+* **LinkedIn:** [Enlace a tu perfil de LinkedIn]
+* **Portafolio / Sitio Web:** [Enlace a tu GitHub o Portafolio]
+
+---
+
+## 💡 Perfil Profesional
+
+Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimientos en tecnologías web, gestión de bases de datos relacionales y control de versiones. Me destaco por mi capacidad para integrar herramientas de inteligencia artificial y soluciones tecnológicas modernas en el diseño de interfaces y la lógica de programación. Orientada al aprendizaje continuo, la resolución eficiente de problemas y el trabajo colaborativo en proyectos de desarrollo.
+
+---
+
+## 💼 Experiencia Laboral
+
+### **Desarrolladora de Software / Proyectos Académicos** — SENA
+
+*2025 – Presente* | *Medellín, Colombia*
+
+* Diseñé e implementé prototipos y wireframes interactivos para aplicaciones web utilizando **Penpot** y **MockFlow**.
+* Desarrollé lógica web e interfaces utilizando JavaScript, Bootstrap 5.3 y bases de datos relacionales con PostgreSQL / pgAdmin.
+* Coordiné el control de versiones y colaboración de código estructurado a través de **GitHub**.
+
+---
+
+## 🎓 Formación Académica
+
+### **Tecnología en Análisis y Desarrollo de Software (ADSO)**
+
+*Servicio Nacional de Aprendizaje (SENA)* | *En curso*
+
+### **Educación Secundaria**
+
+*I.E. Débora Arango Pérez* | *Concluido*
+
+---
+
+## 🛠️ Habilidades (Skills)
+
+### **Habilidades Duras (Hard Skills):**
+
+* **Lenguajes y Tecnologías Web:**
+* **Bases de Datos:**
+* **Control de Versiones y Entorno:**
+* **Diseño y Prototipado UI/UX:**
+* **Herramientas de IA y Productividad:**
+
+* **Habilidades Blandas (Soft Skills):** Pensamiento lógico, aprendizaje autónomo, resolución de problemas, trabajo en equipo y adaptabilidad.
+* **Idiomas:**
+* Español — Nativo
+* Inglés — [Tu nivel actual, ej: Lectura técnica / B1]
+
+
+
+---
+
+## 📚 Cursos, Certificaciones y Formación Continua
+
+* **Desarrollo Web con JavaScript** — *AprendeJavaScript / Formación Autónoma (2026)*
+* **Bases de Datos con PostgreSQL y pgAdmin** — *SENA (2026)*
+* **Actividades y Proyectos Comunitarios / Historial de Servicio** — *Politécnico de Antioquia*
+
+---
+
+¿Hay alguna tecnología adicional o número de contacto específico que quieras agregar a los campos entre corchetes?
