@@ -1,4 +1,4 @@
-Aquí tienes tu perfil profesional adaptado exactamente a la plantilla solicitada, integrando tu información académica, tecnológica y tus áreas de desarrollo actual:
+
 
 ---
 
@@ -14,7 +14,7 @@ Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrolladora Junior
 * **Correo Electrónico:** mariapaulinasanchezgarcia@gmail.com
 * **Ubicación:** Medellín, Colombia
 * **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* **Portafolio / Sitio Web:** [Enlace a tu GitHub o Portafolio]
+* **Portafolio / Sitio Web:** https://github.com/MariaPaulinas
 
 ---
 
@@ -61,7 +61,7 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 * **Habilidades Blandas (Soft Skills):** Pensamiento lógico, aprendizaje autónomo, resolución de problemas, trabajo en equipo y adaptabilidad.
 * **Idiomas:**
 * Español — Nativo
-* Inglés — [Tu nivel actual, ej: Lectura técnica / B1]
+* Inglés —B1
 
 
 
@@ -75,24 +75,26 @@ Estudiante enfocada en el Análisis y Desarrollo de Software (ADSO) con conocimi
 
 ---
 
-Lenguajes de Programación 
+💻 Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
-
-Bases de Datos 
-
+🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Herramientas, DevOps & Entornos 
+
+---
+
+⚙️ Herramientas, DevOps y Entornos
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
