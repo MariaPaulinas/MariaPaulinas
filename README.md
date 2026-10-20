@@ -1,7 +1,7 @@
 
   <div align="center">
 
-🌸 María Paulina Sánchez García
+ María Paulina Sánchez García
 
 Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrolladora Junior
 
