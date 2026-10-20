@@ -5,7 +5,7 @@
 
 Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrolladora Junior
 
-<img src="pauli.jpeg" alt="Presentación animada" />
+<img src="Paulina.jpeg" alt="Presentación animada" />
 <img src="https://img.shields.io/badge/ADSO-SENA-8B1E3F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Desarrollo-Junior-CB6D93?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Aprendizaje-Continuo-E8A0BF?style=for-the-badge" />
